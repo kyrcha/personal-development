@@ -7,7 +7,7 @@ work (notes, summaries, code) on books, courses, blog posts, etc.
 ### Think Stats
 _Probability and Statistics for Programmers_ by Allen B. Downey
 
-- [X] Chapter 1
+- [X] ~~Chapter 1~~
 - [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
